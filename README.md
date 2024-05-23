@@ -8,7 +8,7 @@ You'll fine a mix of projects, including my assignments from Thinkful/Chegg Skil
 
 #### Get in Touch 💌
 
-📫 Feel free to connect with me on `[(https://www.linkedin.com/in/basma-diaz)]`! 
+📫 Feel free to connect with me on [](https://www.linkedin.com/in/basma-diaz/) !
 
 ##### Skills
 * Languages: HTML5, CSS3, JavaScript
